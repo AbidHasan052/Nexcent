@@ -1,0 +1,718 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 10px 5px !important;
+}
+.login {
+    padding:5px 5px;   
+}
+.btn_sign {
+    margin-left: 5px;
+}
+
+/*slider start*/
+.s_text {
+    padding-left: 0px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.s_text h1 {
+    font-size: 25px;
+    line-height: 30px;
+    
+}
+.s_text p {
+    margin: 0 0 15px;
+    font-size: 14px;
+}
+.btn_reg {
+    padding: 5px 20px;
+}
+.s_image {
+    margin: 50px 0 40px;
+}
+/*client start*/
+.c_padding {
+    padding: 25px 0;
+}
+.cm_p {
+    padding-top: 5px;
+    font-size: 14px;
+}
+.cm_h1 {
+    font-size: 25px;
+}
+
+.c_logo ul li {
+    margin: 0px 35px !important;
+    padding-top: 20px;
+}
+/* Community start */
+.com_text {
+    padding: 0 0;
+}
+.com_item {
+    padding: 5px 10px;
+}
+.com_h2 {
+	padding-top: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+}
+/*Banner start*/
+.banner_img {
+    margin: 0 10px 10px;
+}
+.banner_text {
+	margin: 0 20px;
+    padding-right: 0;
+    text-align: center;
+}
+.b_h1 {
+    font-size: 25px;
+    line-height: 30px;
+}
+.b_p {
+    padding: 10px 0 20px;
+    font-size: 14px;
+}
+.btn_reg {
+    padding: 8px 20px;
+}
+/*customer start*/
+.customer_img {
+    padding: 0px 30px;
+}
+.customer_text {
+    text-align: center;
+    padding: 0px 15px;
+}
+.cus_p1 {
+    line-height: 20px;
+    font-size: 14px;
+}
+.cus_h1 {
+    font-size: 18px;
+}
+.cus_p2{
+    font-size: 14px;
+}
+.customer_icon ul li {
+    margin-left: 30px !important;
+    margin-right: 30px !important;
+}
+.customer_icon ul li a {
+    font-size: 15px;
+}
+/* Reach start */
+.reach_text {
+    padding: 0 25px 0 25px;
+    text-align: center;
+}
+.reach_text h1{
+    font-size: 25px;
+    line-height: 30px;
+}
+.r_items {
+    padding: 0 35px 0 35px;
+}
+.r_icon {
+    padding: 20px 0 0 0;
+}
+.r_text{
+    padding:0;
+}
+.r_text h2 {
+    padding-top: 0;
+    font-size: 25px;
+}
+.r_text p{
+    font-size: 14px;
+}
+/*Marketing start*/
+.m_text h1{
+    font-size: 25px;
+}
+.m_text p {
+    padding: 0 20px;
+    font-size: 14px
+}
+.m_img {
+    margin: 35px 15px 70px;
+    border-radius: 8px;
+}
+.m_moreinfo {
+    margin-top: 170px;
+    width: 230px;
+    height: 145px;
+    padding: 15px 15px;
+}
+.m_moreinfo p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+}
+.m_moreinfo a {
+    font-size: 16px;
+}
+/*Footer top start*/
+.ft_text {
+    padding: 0 0;
+}
+.ft_text h1 {
+    padding: 0 0 20px;
+    font-size: 25px;
+}
+.btn_f {
+    padding: 8px 12px;
+}
+/*footer start*/
+footer {
+    padding: 35px 0 80px;
+    background-color: #263238;
+}
+.fo_text {
+    text-align: center;
+}
+.f_p2 {
+    padding: 5px 0;
+}
+.fo_icon {
+    padding: 10px 0 35px;
+}
+.fo_icon ul li {
+    padding-right: 15px;
+}
+.fo_links {
+    padding-bottom: 25px;
+    text-align: center;
+}
+.fo_links ul li {
+    padding-top: 5px;
+}
+.fo_mail {
+    display: flex;
+    justify-content: center;
+}
+.fo_mail h2{
+    font-size: 18px;
+}
+.fo_input {
+    position: absolute;
+    margin-top: 30px;
+}
+.form_custom {
+    width: 180px;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 5px 5px !important;
+}
+.login {
+    padding:5px 5px;   
+}
+.btn_sign {
+    margin-left: 5px;
+}
+/*slider start*/
+.s_text {
+    padding: 0 30px 50px;
+    text-align: center;    
+}
+.s_text h1 {
+    font-size: 25px;
+    line-height: 45px;   
+}
+.s_text p {
+    margin: 0 0 15px;
+    font-size: 15px;
+}
+.s_image {
+    margin: 50px 0 40px;
+}
+/*client start*/
+.c_padding {
+    padding: 25px 0;
+}
+.cm_h1 {
+    font-size: 25px;
+}
+.cm_p {
+   padding-top: 5px;
+   font-size: 14px;
+}
+.c_logo ul li {
+    margin: 0px 55px !important;
+    padding-top: 20px;
+}
+/* Community start */
+.com_text {
+    padding: 0px 65px 10px; 
+}
+.com_item {
+    padding: 10px 110px;
+}
+.com_h2 {
+	padding-top: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+/*Banner start*/
+.banner_img {
+    margin: 0 50px 10px;
+}
+.banner_text {
+	margin: 0 80px;
+    padding-right: 0;
+    text-align: center;
+}
+.b_h1 {
+    font-size: 25px;
+    line-height: 30px;
+}
+.b_p {
+    padding: 10px 0 20px;
+    font-size: 15px;
+}
+.btn_reg {
+    padding: 8px 20px;
+}
+/*customer start*/
+.customer_img {
+    padding: 0px 100px;
+}
+.customer_text {
+    text-align: center;
+    padding: 0px 30px;
+}
+.cus_p1 {
+    line-height: 20px;
+    font-size: 15px;
+}
+.cus_h1 {
+    font-size: 18px;
+}
+.cus_p2{
+    font-size: 15px;
+}
+.customer_icon ul li {
+    margin-right: 10px !important;
+}
+.customer_icon ul li a {
+    font-size: 18px;
+}
+/* Reach start */
+.reach_text {
+    padding: 0 80px 0 80px;
+    text-align: center;
+}
+.reach_text h1{
+    font-size: 25px;
+    line-height: 30px;
+}
+.r_items {
+    padding: 0 35px 0 35px;
+}
+.r_icon {
+    padding: 25px 0 0 0px;
+}
+.r_text {
+    padding:0;
+}
+.r_text h2 {
+    padding-top: 5px;
+}
+.r_text p{
+    font-size: 15px;
+}
+/*Marketing start*/
+.m_text h1{
+    font-size: 25px;
+}
+.m_text p {
+    padding: 0 20px;
+    font-size: 15px
+}
+.m_img {
+    margin: 35px 100px 70px;
+    border-radius: 8px;
+}
+.m_moreinfo {
+    margin-top: 200px;
+    width: 235px;
+    height: 150px;
+    padding: 15px 15px;
+}
+.m_moreinfo p {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+}
+.m_moreinfo a {
+    font-size: 16px;
+}
+/*Footer top start*/
+.ft_text {
+    padding: 0 130px;
+}
+.ft_text h1 {
+    padding: 0 0 20px;
+    font-size: 25px;
+}
+.btn_f {
+    padding: 8px 20px;
+}
+
+/*footer start*/
+footer {
+    padding: 65px 40px;
+    background-color: #263238;
+}
+.fo_text {
+    text-align: center;
+}
+.f_p2 {
+    padding: 5px 0;
+}
+.fo_icon {
+    padding: 10px 0 35px;
+}
+.fo_icon ul li {
+    padding-right: 15px;
+}
+.fo_links {
+    padding-bottom: 25px;
+    text-align: center;
+}
+.fo_links ul li {
+    padding-top: 5px;
+}
+.fo_mail {
+    display: flex;
+    justify-content: center;
+}
+.fo_input {
+    position: absolute;
+    margin-top: 25px;
+}
+.form_custom {
+    width: 200px;
+}
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 5px 5px !important;
+}
+.login {
+    padding:5px 5px;   
+}
+.btn_sign {
+    margin-left: 5px;
+}
+/*slider start*/
+.s_text h1 {
+    font-size: 35px;
+    line-height: 50px;
+}
+.s_text p {
+    margin: 10px 0 25px;
+}
+.s_image {
+    margin: 50px 0 40px;
+}
+/*client start*/
+.c_padding {
+    padding: 25px 0;
+}
+
+.cm_h1 {
+    font-size: 32px;
+}
+.c_logo ul li {
+    margin: 0px 30px !important;
+    padding-top: 25px;
+}
+/* Community start */
+.com_text {
+    padding: 0 100px;
+}
+.com_item {
+    padding: 10px 110px;
+}
+.com_h2 {
+	padding-top: 10px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+}
+/*Banner start*/
+.banner_img {
+    margin: 0 160px 10px;
+}
+.banner_text {
+	margin: 0 60px;
+    padding-right: 0;
+    text-align: center;
+}
+.b_h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.b_p {
+    padding: 10px 0 25px;
+}
+.btn_reg {
+    padding: 10px 28px;
+}
+/*customer start*/
+.customer_img {
+    padding: 0px 160px;
+}
+.customer_text {
+    text-align: center;
+    padding: 0px 35px;
+}
+.cus_p1 {
+    line-height: 20px;
+}
+.cus_h1 {
+    font-size: 18px;
+}
+.customer_icon ul li {
+    margin-right: 10px !important;
+}
+.customer_icon ul li a {
+    font-size: 18px;
+}
+/* Reach start */
+.reach_text {
+    padding: 0 140px 0 140px;
+    text-align: center;
+}
+.reach_text h1{
+    font-size: 32px;
+    line-height: 40px;
+}
+.r_items {
+    padding: 0 35px 0 80px;
+}
+.r_text {
+    padding: 0 80px 0 0;
+}
+
+/*Marketing start*/
+.m_text h1{
+    font-size: 32px;
+}
+.m_text p {
+    padding: 0 50px;
+}
+.m_img {
+    margin: 40px 0 80px;
+    border-radius: 8px;
+}
+.m_moreinfo {
+    margin-top: 200px;
+    padding: 10px 10px;
+    width: 235px;
+    height: 150px;
+}
+.m_moreinfo p {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+}
+.m_moreinfo a {
+    font-size: 17px;
+}
+/*Footer top start*/
+.ft_text {
+    padding: 0 140px;
+}
+.ft_text h1 {
+    font-size: 35px;
+}
+.btn_f {
+    padding: 10px 28px;
+}
+/*footer start*/
+footer {
+    padding: 65px 100px;
+    background-color: #263238;
+}
+.fo_text {
+    text-align: center;
+}
+.f_p2 {
+    padding: 5px 0;
+}
+.fo_icon {
+    padding: 10px 0 35px;
+}
+.fo_icon ul li {
+    padding-right: 15px;
+}
+.fo_links ul li {
+    padding-top: 5px;
+}
+.form_custom {
+    width: 200px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 0 15px !important;
+}
+/*slider start*/
+.s_text h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+/*client start*/
+.c_logo ul li {
+    margin: 0 45px !important;
+}
+/* Community start */
+.com_text {
+    padding: 0 200px;
+}
+.com_item {
+    padding: 15px 10px;
+}
+/*Banner start*/
+.banner_text {
+    padding-right: 30px;
+}
+/*customer start*/
+.customer_text {
+    padding: 0 0px;
+    }
+.customer_icon ul li {
+    margin-right: 15px !important;
+}
+/* Reach start */
+.reach_text {
+    padding: 0 0 0 10px;
+}
+.r_items {
+    padding: 0 20px;
+}
+.r_icon {
+    padding: 35px 0 0 20px;
+}
+.r_text {
+    padding: 0 40px 0 0;
+}
+.r_text h2 {
+    font-size: 25px;
+}
+/*Marketing start*/
+.m_text p {
+    padding: 0 155px;
+}
+.m_img {
+    margin: 0px 15px 100px;
+}
+.m_moreinfo {
+    width: 250px;
+    height: 160px;
+    margin-top: 135px;
+  /*  margin-left: 35px; */
+    padding: 5px 5px;    
+}
+.m_moreinfo p{
+    font-size: 18px;
+}
+.m_moreinfo a{
+    font-size: 18px;
+}
+/*Footer top start*/
+.ft_text {
+    padding: 0 140px;
+}
+.ft_text h1 {
+    font-size: 50px;
+}
+/*footer start*/
+footer {
+    padding: 65px 100px;
+    background-color: #263238;
+}
+.form_custom {
+    width: 230px;
+}
+
+}
+/* Extra large devices (laptop, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*slider start*/
+.s_text h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+/*Banner start*/
+.banner_text {
+    padding-right: 30px;
+}
+/*customer start*/
+.customer_text {
+    padding: 0 50px;
+}
+.customer_icon ul li {
+    margin-right: 20px !important;
+}
+/* Reach start */
+.reach_text {
+    padding: 0 35px 0 50px;
+}
+.r_icon {
+    padding: 35px 0 0 25px;
+}
+.r_text {
+    padding: 0 50px 0 0;
+}
+/*Marketing start*/
+.m_text p {
+    padding: 0 245px;
+}
+.m_img {
+    margin: 15px 25px 100px;
+}
+.m_moreinfo{
+    width: 275px;
+    height: 165px;
+    padding: 10px 5px;
+}
+/*footer top start*/
+.ft_text h1 {
+    font-size: 50px;
+}
+/*footer start*/
+footer {
+    padding: 65px 120px;
+    background-color: #263238;
+}
+
+}
+
+/* Extra extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
